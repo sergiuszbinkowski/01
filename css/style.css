@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: #526D82;
+}
+.box1{
+    display: inline-block;
+    background-color: #9DB2BF;
+    width: 48%;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: justify;
+}
+.foto-left{
+    height: 400px;
+    width: 600px;   
+    float: left;
+    border-radius: 30px;
+    margin: 50px;
+}
+.foto-right{
+    height: 400px;
+    width: 600px;
+    float: right;
+    border-radius: 30px;
+    margin: 50px;
+
+}
+.divider{
+    clear: both;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p{
+    font-size:30px;
+    text-align: justify;
+    margin: 50px;
+}
